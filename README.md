@@ -11,4 +11,8 @@
 * Criar mais projetos;
 * Não Procrastinar.
 
+## Não procastrinar mais!
+
+* Ter focos e metas, e acima de tudo tentar ver o melhor de mim!
+
 
