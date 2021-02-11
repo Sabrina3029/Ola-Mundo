@@ -24,4 +24,4 @@
 * Fazer mais portifólios;
 * Passar de ano sem **reprovar**;
 # 2021: **O que esperar desse ano? Espero que seja bom, um ano bom!!**
-<p>Sem dúvidas será um ano de muito aprendiado e luta, porém não podemos desistir jamais!! Devemos persistir sempre e tentar por mais dificil que seja ver o lado bom das coisas...</p>
+<h2>Sem dúvidas será um ano de muito aprendiado e luta, porém não podemos desistir jamais!! Devemos persistir sempre e tentar por mais dificil que seja ver o lado bom das coisas...</h2>
