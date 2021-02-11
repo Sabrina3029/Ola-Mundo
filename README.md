@@ -20,7 +20,6 @@
 
 * Concuir minhas metas antes do final de 2021;
 * Aprender analisar melhor o sistema da minha empresa;
-* Desenvolver mais coisas, como sites e jogos e largar a preguiça;
-* 
+* **Desenvolver** mais coisas, como sites e jogos e largar a preguiça;
 
 
