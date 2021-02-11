@@ -4,7 +4,7 @@
 
  Meu primeiro site em Repositório, vamos treinar!
 
-### Metas:
+## Metas:
 
 * Tentar criar ao menos 3 repositórios, para que ajude outras pessoas;
 * Criar Sites;
