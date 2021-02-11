@@ -16,5 +16,6 @@
 * Ter focos e metas, e acima de tudo tentar ver o melhor de mim!
 @ oiii
 & oi
+<p>Estou aqui apenas para aprender e quero aprender e dar o melhor de mim!!</p>
 
 
