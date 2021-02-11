@@ -23,4 +23,4 @@
 * **Desenvolver** mais coisas, como sites e jogos e largar a preguiça;
 * Fazer mais portifólios;
 * Passar de ano sem **reprovar**;
-# 2021:<o que esperar desse ano? Espero que seja bom, um ano bom!!>
+# 2021: **O que esperar desse ano? Espero que seja bom, um ano bom!!**
